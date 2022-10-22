@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**haruki7049/haruki7049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+btw, I use archlinux.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes I write shitty programs. Like this:
+~~~
+  unko = {
+    name = "Mr.unko",
+    age = 24,
+    greeting = function(self)
+      greeting_sentence = string.format("Hi!! I`m %s." , self.name)
+      print(greeting_sentence)
+    end
+  }
+~~~
+Incidentally, "unko" is Japanese and means "poop"
