@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-btw, I use archlinux.
+I am a student in Japanese. I cannot speak English well but I try hard to read the sentence written in English.  
 
 Sometimes I write shitty programs. Like this:
 ~~~
@@ -14,3 +14,5 @@ Sometimes I write shitty programs. Like this:
   }
 ~~~
 Incidentally, "unko" is Japanese and means "poop"
+
+btw, I use archlinux.
