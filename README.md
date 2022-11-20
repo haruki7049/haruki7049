@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student in Japanese. I cannot speak English well but I try hard to read the sentence written in English.  
+I am a student in Japanese. I cannot speak and read English well but I try hard to read the sentence written in English.  
 
 Sometimes I write shitty programs. Like this:
 ~~~
